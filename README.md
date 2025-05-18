@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucashenriquedg" alt="lucashenriquedg" /></a> </p>
 
-- 🔭 I’m currently working on minecraft plugins [surfplugins](https://www.spigotmc.org/resources/authors/dadaray_.1481873/)
+- 🔭 I’m currently working with minecraft plugins, all my plugins are available on my [SpigotMC](https://www.spigotmc.org/resources/authors/dadaray_.1481873/) profile.
 
 - 🌱 I’m currently learning **Kotlin, Java and Python.**
 
@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with [Monte Carlo particle simulations using OpenTOPAS](https://github.com/OpenTOPAS/OpenTOPAS)
 
-- 💬 Ask me about **Minecraft plugin development**
+- 💬 You can ask me about **Minecraft plugin development**
 
-- 📫 My main email adress is **lucashenriquedg@hotmail.com**
+- 📫 My main email adress is: **lucashenriquedg@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
