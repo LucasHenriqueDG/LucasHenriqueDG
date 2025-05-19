@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Henrique</h1>
-<h3 align="center">I am an independent programmer, mostly interested in developing minecraft plugins, but I also work with Monte carlo physics simulations.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucashenriquedg&label=Profile%20views&color=0e75b6&style=flat" alt="lucashenriquedg" /> </p>
+<h3 align="center">I am an independent programmer, mostly interested in developing minecraft plugins, but I also work with Monte carlo physics simulations.</h3
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucashenriquedg" alt="lucashenriquedg" /></a> </p>
 
